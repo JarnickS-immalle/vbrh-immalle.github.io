@@ -16,13 +16,15 @@ title: GIP Websites 2019-2020
 
 # planning juni
 
-- 08u30 : 
-- 08u50 : 
-- 09u10 : 
-- 09u40 : 
-- 10u00 : 
-- 10u20 PAUZE
-- 10u40 : 
-- 11u00 : 
-- 11u20 : 
-- 11u40 : 
+08u30 : Meylemans Arne
+08u55 : Brent
+09u20 : Nick
+09u45 : Thijs
+10u10 : Filip
+10u35 PAUZE START
+10u45 PAUZE EINDE
+11u10 : Jarnick
+11u35 : Michiel
+12u00 : De Rijk Joren
+12u25 : Senne
+12u50 EINDE
